@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 [![WTFPL][WTFPL-btn]][WTFPL-url] [![ccbysa][ccbysa4-btn]][ccbysa4-url]
 
-## just exploring astro.build to make personal 'zine' here
+## gonna exploring astro.build to make personal 'zine' here
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
